@@ -122,9 +122,6 @@ npm run build
 
 For more details about the frontend and backend, including available scripts, dependencies, and configuration, please refer to the respective package.json files in each directory.
 
-## Contributing
-
-Please read the CONTRIBUTING.md file (if available) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
